@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+body section {
+  width: 20vw;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 0 8px 2px;
+  border-radius: 10px;
+}
+body section input {
+  width: 10vw;
+  padding: 5px;
+}
+body section button {
+  padding: 5px 12px;
+  width: 11vw;
+  background-color: rgba(0, 102, 154, 0.876);
+  color: white;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=style.css.map */
